@@ -29,12 +29,7 @@
 	padding:5px;
 }
 
-#shipping{
-	display:flex;
-	align-items: center;
-	justify-content: center;
 
-}
 
 .fa-truck{
 	
@@ -113,4 +108,11 @@ h3{
 	background: silver;
 	padding: 5px;
 	color:#00286b;
+}
+
+#footer{
+	
+	background:blue;
+	color:white;
+	padding: 5px;
 }
